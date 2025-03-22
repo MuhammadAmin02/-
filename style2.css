@@ -1,0 +1,124 @@
+header{
+    background-color: #F3D7B7;
+    margin: 0 auto;
+    /* width: 1340px; */
+    height: 24px;
+    display: flex;
+    justify-content: space-between;
+}
+.box{
+    display: flex;
+    justify-content: space-around;
+    width: 500px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.img{
+    margin-left: 30px;
+}
+
+main{
+    background-color:  #F3D7B7;
+
+}
+
+.box2{
+   display: flex;
+   align-items: center;
+}
+.div1{
+ display: flex;
+ 
+}
+h1{
+    font-weight: 900;
+    font-size: 55px;
+}
+.img1{
+    position: relative;
+    left: 480px;
+    
+}
+
+.img2{
+    position: relative;
+    right: 220px;
+    bottom: 80px;
+    height: 160px;
+    width: 160px;
+
+}
+button{
+    width: 145px;
+    height: 39px;
+    border-radius: 100px;
+    color: white;
+    background-color: #0A775F;
+    margin-left: 25px;
+    border: none;
+   
+}
+.div{
+    margin-left: 20px;
+}
+.mack{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.mkl{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: #F3D7B7;
+    height: 510px;
+   
+}
+.jkl p{
+    color: white;
+    font-weight: 900;
+    font-size: 20px;
+}
+.fgh{
+    height: 552px;
+    position: relative;
+    bottom: 150px;
+}
+.jkl h1{
+    color: white;
+    font-weight: 900;
+    
+}
+
+.hack p{
+    
+    font-weight: 900;
+    font-size: 20px;
+}
+
+footer{
+    background-color: #eabd89;
+    margin: 0 auto;
+    width: 1505px;
+    height: 160px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: absolute;
+    top: 1770px;
+}
+.box9{
+    display: flex;
+    justify-content: space-around;
+    width: 500px;
+}
+.lpo{
+    display: flex;
+    justify-content: space-around;
+    width: 200px;
+}
